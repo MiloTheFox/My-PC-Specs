@@ -1,15 +1,11 @@
-# 🖥️ My-PC-Specs
+## 🖥️ PC Specifications
 
-• CPU: AMD Ryzen 5 5600G - 180€
-
-• GPU: Palit GeForce GTX 1080Ti - 300€
-
-• RAM: G.Skill Aegis 8GB DDR4-3200 CL16 DIMM x2 - 32€
-
-• Mainboard: MSI B550-A Pro - 155€
-
-• OS: Windows 11 - 50€ (technically free due to the update from Windows 10, but I included it anyways)
-
-• Power Supply: be quiet! System Power 10 650W - 75€
-
-Total: About 800€ (without Storage)
+| Component | Model |
+|---------|-------|
+| CPU | AMD Ryzen 5 5600G |
+| GPU | EVGA GeForce RTX 3060 Ti |
+| RAM | 32 GB (G.Skill Aegis, 4×8 GB DDR4) |
+| Motherboard | MSI B550-A Pro |
+| OS | Windows 11 Pro 25H2 |
+| Power Supply | be quiet! System Power 10 (650 W) |
+| Storage | 1 TB Crucial P3 NVMe<br>256 GB Patriot P300 NVMe<br>1 TB Toshiba HDD |
